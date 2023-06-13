@@ -30,5 +30,6 @@ public class Main {
         rainha.sobrenome = "Turner";
         // Definição de comportamento
         System.out.println(rainha.falar("alto "));
+        rainha.comer();
     }
 }
